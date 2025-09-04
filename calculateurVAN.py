@@ -8,7 +8,6 @@ from Etape_3 import VAEIACC
 from Etape_4_5 import ValeurRevente
 from Etape_6 import ValeurImpotGainCapital
 from Etape_7_8 import ValeurFermeture
-from erreur_verif import input_retry
 
 console = Console()
 
@@ -89,7 +88,7 @@ def calcul_annuites():
 vaa_annuites = calcul_annuites()
 
 # étapes 3, 6, 7 et 8 (calcul des VAEIACC + impôt à payer sur chaque actif si gain en capital + va économie ou perte)
-impot_a_payer = 0
+#impot_a_payer_etape_3 = 0
 nombre_actif = int(Prompt.ask("[bold yellow]Combien d'actifs ont été utilisé pendant le projet?[/bold yellow]"))
 valeur_vaeiacc = 0
 valeur_etape_7_8 = 0
@@ -115,12 +114,12 @@ for i in range(nombre_actif):
 
     valeur_vaeiacc += vaeiacc_singulier
 
-    # addition impot à payer si gain en capital
-    if valeur_vente > cout_capital_initial:
-        impot = ValeurImpotGainCapital(valeur_vente,
-                                                 cout_capital_initial, taux_imposition, taux_global, duree_projet)
-        impot_singulier = -1 *  (impot.va_impot_gain_capital())
-        impot_a_payer += impot_singulier
+    # addition impot à payer si gain en capital (non nécessaire puisque calcul étape 6
+    #if valeur_vente > cout_capital_initial:
+        #impot = ValeurImpotGainCapital(valeur_vente,
+                                                 #cout_capital_initial, taux_imposition, taux_global, duree_projet)
+        #impot_singulier = -1 *  (impot.va_impot_gain_capital())
+        #impot_a_payer_etape_3 += impot_singulier
 
     # calcul économie ou perte sur fermeture
     if fermeture == "oui":
@@ -154,11 +153,11 @@ for i in range(nombre_valeur_recup):
 console.print(f"\n- Valeur actualisée totale de récupération = {valeur_recup} -\n", style="bold green")
 
 # étape 6
-
-gain_capital = Prompt.ask("[bold yellow]Y a-t-il un gain en capital sur des actifs autres que ceux à l'étape 3? (le terrain ne compte pas)[/bold yellow]").strip().lower()
+impot_a_payer_etape_6 = 0
+gain_capital = Prompt.ask("[bold yellow]Y a-t-il un gain en capital sur des actifs autres que ceux à l'étape 3?[/bold yellow]").strip().lower()
 
 if gain_capital == "oui":
-    nombre_gain_capital = int(Prompt.ask("[bold yellow]Combien y a-t-il de gain en capital différent? (rappel: le terrain ne compte pas)[/bold yellow]"))
+    nombre_gain_capital = int(Prompt.ask("[bold yellow]Combien y a-t-il de gain en capital différent?[/bold yellow]"))
     for i in range(nombre_gain_capital):
 
         console.print(f"\n--- Gain en capital {i + 1} (étape 6) ---", style="bold green")
@@ -172,14 +171,14 @@ if gain_capital == "oui":
 
         console.print(f"\n-- Valeur actualisée de l'impôt à payer sur le gain en capital {i + 1} = {gain_singulier:.2f} --", style="bold green")
 
-        impot_a_payer += gain_singulier
+        impot_a_payer_etape_6 += gain_singulier
 
-console.print(f"\n- Valeur actualisée totale de l'impôt sur le gain en capital = {impot_a_payer} -\n", style="bold green")
+console.print(f"\n- Valeur actualisée totale de l'impôt sur le gain en capital = {impot_a_payer_etape_6} -\n", style="bold green")
 
 # calcul final de la VAN
 
 montant_final = (vaa_mise_de_fonds + vaa_annuites + valeur_vaeiacc +
-                 valeur_recup + impot_a_payer + valeur_etape_7_8)
+                 valeur_recup + impot_a_payer_etape_6 + valeur_etape_7_8)
 
 table = Table(title="Valeur Actualisée par Étape", show_lines=True)
 table.add_column("Étape", justify="center", style="bold yellow")
@@ -189,7 +188,7 @@ table.add_row("Étape 1", f"{vaa_mise_de_fonds:.2f}")
 table.add_row("Étape 2", f"{vaa_annuites:.2f}")
 table.add_row("Étape 3", f"{valeur_vaeiacc:.2f}")
 table.add_row("Étape 4-5", f"{valeur_recup:.2f}")
-table.add_row("Étape 6", f"{impot_a_payer:.2f}")
+table.add_row("Étape 6", f"{impot_a_payer_etape_6:.2f}")
 table.add_row("Étape 7-8", f"{valeur_etape_7_8 if valeur_etape_7_8 is not None else 'N/A':.2f}")
 table.add_row("Valeur Totale", f"{montant_final:.2f}")
 
