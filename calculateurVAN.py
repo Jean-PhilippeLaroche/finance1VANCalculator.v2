@@ -141,9 +141,9 @@ for i in range(nombre_valeur_recup):
     console.print(f"\n--- Valeur de récupération {i + 1} (étapes 4 et 5) ---", style="bold green")
 
     valeur_recuperation = float(Prompt.ask("[bold yellow]Quelle est le montant de cette valeur de récupération à la fin du projet?[/bold yellow]").replace(" ", ""))
-    frequence_recup = str(Prompt.ask("[bold yellow]Est-ce que cette valeur de récupération est à la fin de l'année de fin du projet ou au début de l'année n + 1?[/bold yellow]"))
+    #non valide???? frequence_recup = str(Prompt.ask("[bold yellow]Est-ce que cette valeur de récupération est à la fin de l'année de fin du projet ou au début de l'année n + 1?[/bold yellow]"))
 
-    recup = ValeurRevente(taux_global, duree_projet, valeur_recuperation, frequence_recup)
+    recup = ValeurRevente(taux_global, duree_projet, valeur_recuperation)
 
     recup_singulier = recup.va_revente()
 
