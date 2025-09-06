@@ -47,10 +47,10 @@ def pdf_to_text_with_ocr(pdf_path: str) -> str:
                 # render page to an image, then convert the image to text
                 im = page.to_image(resolution=300).original
 
-                # Convert to grayscale
+                # convert to grayscale
                 im = im.convert("L")
 
-                # Increase contrast (makes text stand out)
+                # increase contrast (makes text stand out)
                 im = ImageOps.autocontrast(im)
 
                 # OCR, tries french first then english if needed
@@ -59,6 +59,25 @@ def pdf_to_text_with_ocr(pdf_path: str) -> str:
 
     # joins all text in a single string separated by \n
     return "\n".join(text_parts)
+
+
+
+
+#def save_text_to_file(pdf_path: str, output_dir: str = "data/texts"):
+#    """Extract text from a PDF and save it as a .txt file."""
+#    pdf_path = Path(pdf_path)
+#    output_dir = Path(output_dir)
+#    output_dir.mkdir(parents=True, exist_ok=True)
+
+#    text = pdf_to_text_with_ocr(pdf_path)
+#    txt_filename = output_dir / f"{pdf_path.stem}.txt"
+
+#    with open(txt_filename, "w", encoding="utf-8") as f:
+#        f.write(text)
+
+#    print(f"Saved text from {pdf_path.name} to {txt_filename}")
+
+
 
 
 if __name__ == "__main__":
@@ -75,4 +94,4 @@ if __name__ == "__main__":
         if not txt.strip():
             print("[No text found]")
         else:
-            print(txt[:1200])
+            print(txt)

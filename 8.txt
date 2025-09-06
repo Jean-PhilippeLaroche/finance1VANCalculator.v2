@@ -1,0 +1,20 @@
+Investissement initial: 50000€.
+
+Investissement supplémentaire: 10000€ au début de l'année 2.
+
+Revenu projeté: 12000€ de l'année 1 à l'année 3.
+Revenu projeté: 15000€ de l'année 4 à l'année 6.
+
+Dépense: 8000€ de l'année 1 à l'année 2.
+Dépense: 5000€ de l'année 3 à l'année 5.
+
+Taux d'imposition: 20%.
+Taux d'actualisation: 6%.
+
+Taux d'amortissement pour un actif: 40% par an.
+
+Montants récupérés à la fin du projet: 4000€.
+
+Durée du projet: 6 ans.
+
+Actif utilisé: achat 10000€, vente 12000€, utilisé pendant 4 ans.

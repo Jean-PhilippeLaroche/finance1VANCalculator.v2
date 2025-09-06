@@ -1,0 +1,18 @@
+3. Transfométal étudie présentement la possibilité de remplacer une machine existante
+par une nouvelle, plus sophistiquée. La machine actuelle a couté 30 000 $ lors de son
+acquisition il y a cinq ans et sa valeur au livre est présentement de 15 000$ alors que sa
+valeur marchande est actuellement de 5 000 $. Cette machine pourrait être utilisée
+pendant quatre autres années. Toutefois, pour ce faire, il faudrait effectuer une
+réparation majeure au coût de 10 000$. Cette réparation se ferait à la fin de la présente
+année. La valeur résiduelle de la machine existante sera de 2000 $ au début de la 5e
+année. Enfin, cette machine donne droit à un amortissement fiscal de 20%, calculé sur le
+solde dégressif.
+D’autres part, l’acquisition de la nouvelle machine nécessiterait un investissement de
+25 000$. Elle permettrait, par ailleurs, des économies annuelles de l’ordre de 10 000$
+sur les frais de main-d’œuvre directe et d’électricité. Sa durée d’utilisation sera de
+quatre ans et on pourrait la revendre 5 000 $ au début de la 5e année. Cette nouvelle
+machine serait également amortie au taux annuel de 20% sur le solde dégressif. Le coût
+du capital est de 10% et le taux d’imposition de la compagnie est de 40%.
+Compte tenu de ces informations et sachant que l’entreprise possède plusieurs autres
+actifs dans la même catégorie, on vous demande si vous recommanderiez le
+remplacement de l’ancienne machine au président de Transfométal.

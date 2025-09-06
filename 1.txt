@@ -1,0 +1,12 @@
+VAN Exemple simple
+Projet d’investissement
+Durée du projet : 7 ans
+Investissement requis : Terrain : 100 000$ et Bâtiment : 300 000$ (d = 4%)
+Fonds de roulement (dans 1 an) : 50 000$
+Revenus supplémentaires générés par le projet : 80 000$ par année
+Coûts : 22 000$ par année, avec une croissance de 5% par an par la suite
+Tc = 40% ; taux d’actualisation = 12%
+On exploite pour 7 années complètes. On récupère le fonds de roulement à la fin de
+l’année 7, et ensuite au début de l’année 8 on vendra le terrain pour 120 000$ et le
+bâtiment pour 350 000$.
+Déterminez la VAN de ce projet. Est-ce un bon investissement?

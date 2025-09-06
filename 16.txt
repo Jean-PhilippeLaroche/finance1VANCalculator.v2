@@ -1,0 +1,5 @@
+Antoine Dupuis souhaite lancer un studio de danse contemporaine. Il prévoit 100 000$ pour l’achat et la rénovation du local, et 40 000$ pour les équipements (barres, miroirs, sols spéciaux). Il achètera aussi un mini-bus à 20 000$ pour transporter les élèves lors des événements.
+
+Les revenus bruts commenceront à 120 000$ la première année, croissant de 10 %/an pendant quatre ans, puis décroissant de 7 %/an. Les charges d’exploitation sont de 55 % des revenus, le taux d’imposition de 30 %, et Antoine souhaite un rendement minimal de 17 %/an.
+
+Après six ans, les équipements seront remplacés pour 40 000$, revendus à 12 000$. Les équipements s’amortissent à 20 %/an, le bâtiment à 5 %/an, et le mini-bus à 30 %/an. La valeur de revente prévue du bâtiment est de 50 000$, du bus 4 000$. Le projet durera 9 ans.

@@ -1,0 +1,25 @@
+Investissement initial: 120000€.
+
+Investissement supplémentaire: 30000€ à la fin de l'année 1.
+Investissement supplémentaire: 15000€ au début de l'année 3.
+Investissement supplémentaire: 10000€ à la fin de l'année 5.
+
+Revenu projeté: 40000€ de l'année 2 à l'année 5.
+Revenu projeté: 60000€ de l'année 6 à l'année 10.
+Revenu projeté: 20000€ de l'année 3 à l'année 7.
+
+Dépense: 20000€ de l'année 1 à l'année 2.
+Dépense: 10000€ de l'année 4 à l'année 6.
+
+Taux d'imposition: 30%.
+Taux d'actualisation: 8%.
+
+Taux d'amortissement pour un actif: 25% par an.
+Taux d'amortissement pour un actif: 10% par an.
+
+Montants récupérés à la fin du projet: 15000€.
+
+Durée du projet: 10 ans.
+
+Actif utilisé: achat 40000€, vente 45000€, utilisé pendant 6 ans.
+Actif utilisé: achat 15000€, vente 18000€, utilisé pendant 4 ans.

@@ -1,0 +1,7 @@
+En 2025, l’entreprise Alpha Invest a décidé de lancer un nouveau projet industriel avec un investissement initial de 180000€. Pour soutenir le développement, un investissement supplémentaire de 25000€ a été réalisé au début de l'année 2, puis un autre investissement de 20000€ à la fin de l'année 3 a été nécessaire pour l’achat de nouveaux équipements.
+
+Le projet génère progressivement des revenus : 30000€ par an de l'année 1 à l'année 4, puis grâce à l’expansion de la production, 50000€ par an de l'année 5 à l'année 8. Du côté des dépenses, l’entreprise a dû faire face à 10000€ de frais annuels de l'année 1 à l'année 2, et 12000€ de l'année 3 à l'année 5 pour l’entretien et la maintenance des installations.
+
+Le taux d’imposition appliqué sur les bénéfices est de 25%, et pour le calcul de la valeur actuelle nette, l’équipe a utilisé un taux d’actualisation de 7%. Les actifs acquis pour ce projet suivent un taux d’amortissement de 20% par an pour les machines principales et 15% par an pour les équipements secondaires. À la fin du projet, l’entreprise a pu récupérer 10000€ en vendant certains matériels.
+
+Le projet est prévu pour une durée totale de 8 ans. Concernant les actifs utilisés, une machine a été achetée 50000€ et vendue 55000€, utilisée pendant 5 ans, et un équipement secondaire a été acheté 30000€, vendu 33000€, utilisé pendant 3 ans.

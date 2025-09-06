@@ -1,0 +1,42 @@
+Problème de la cabane à sucre
+Impatient d’appliquer ses connaissances acquises en finance, Luc se met à étudier le projet de
+fonder la société Sucrebec Inc. qui servira à rendre accessible à des groupes organisés
+l’expérience de la Cabane à sucre.
+À cet effet, Luc dispose maintenant le 1er avril 2020 d’un terrain dans le bout de Charlevoix qu’il
+a acheté pour 100 000$ il y a 5 ans. Sur ce terrain il faudra construire une cabane à sucre au prix
+de 90 000$ pour le bâtiment. L’équipement pour faire le sucre coûtera 60 000$. Luc peut
+maintenant revendre son terrain dans Charlevoix pour 125 000$ s’il n’entreprend pas le projet de
+la cabane à sucre.
+Le site pourra commencer à accueillir des groupes de touristes dès le mois d’avril 2021. Luc
+prévoit que le nombre de touristes totalisera 3 000 personnes en tout pour la première année
+d’exploitation, chaque touriste payant 25$ pour l’expérience de la cabane à sucre. (Supposez que
+l’entreprise fonctionne avec des réservations et qu’on demande l’argent pour le 1er avril de chaque
+année). Le projet de la cabane à sucre fonctionnera pendant neuf années pendant lesquelles le
+nombre de touristes croîtra de 6% d’année en année.
+Outre les charges d’exploitation prévues de 15 000$ par année, payable à la fin de chaque année,
+Luc se fera livrer du bois pour chauffer le fourneau. Luc a négocié un prix de 28 000$ pour la
+livraison de bois de la première année. Par la suite, il devra renégocier au mois d’avril de chaque
+année un nouveau prix pour la livraison de bois. Le prix payable à chaque livraison de bois
+devrait croître de 3% par rapport au prix de l’année précédente.
+Le démarrage du projet de la cabane à sucre nécessitera, au début du projet, un accroissement du
+fonds de roulement de 20 000$ (récupérable à 90% à la fin du projet). En outre, des travaux de
+remblayage devront être effectués pour rendre le site accessible. Ces travaux coûteront 75 000$ et
+ont déjà été décidés dans le cadre de la construction d’un chemin forestier pour un projet
+indépendant d’exploitation du bois. Par ailleurs, Luc verse un salaire de 18 000$ par an à un
+gardien de sécurité qui travaille déjà depuis un certain temps à surveiller toutes les propriétés de
+Luc. S’il entreprend le projet de cabane à sucre, le salaire du gardien de sécurité devra augmenter
+à 24 000 $.
+Luc anticipe que l’engouement qu’ont les touristes pour tout ce qui est québécois, va
+éventuellement s’estomper, et donc, envisage de se retirer de ce secteur d’activité après neuf
+années d’activité. S’étant lié d’amitié avec une française millionnaire, Luc pourra revendre le
+commerce à cette aventurière française qui lui reprendrait le terrain au début de la 10e année pour
+300 000$ et les bâtiments pour 120 000$. L’équipement de production aura alors une valeur
+résiduelle nulle. Elle a convenu avec Luc qu’elle lui laissait tout de même terminer sa 9e et
+dernière année d’exploitation.
+N’oubliez pas que la moitié de tout gain en capital est imposable. Suite à la revente des actifs de
+la cabane à sucre, Sucrebec Inc. fermera ses portes, et donc, il y aura fermeture de catégories. Le
+taux d’imposition est de T =40%. Le taux d’actualisation pertinent est de 10% par an. Le taux
+c
+d’amortissement fiscal des bâtiments est de 4% et celui de l’équipement 25%.
+Calculez la VAN du projet selon la méthode en 8 étapes
+Est-ce un bon projet pour Luc?

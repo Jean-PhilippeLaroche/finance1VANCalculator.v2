@@ -1,0 +1,4 @@
+Lucie Tremblay crée une école de peinture et arts plastiques. Dépenses : 70 000$ pour local, 25 000$ pour équipements, 12 000$ pour un véhicule.
+
+Revenus bruts : 65 000$ première année, +12 %/an deux ans, puis -8 %/an. Charges : 52 %, impôt : 28 %, rendement minimal : 17 %.
+Remplacement équipements après 4 ans : 25 000$, revente : 6 000$. Amortissement : équipements 15 %/an, bâtiment 4 %/an, véhicule 30 %/an. Projet : 7 ans.

@@ -1,0 +1,5 @@
+Claire Dubois se lance dans la microbrasserie artisanale. Elle dépensera 120 000$ pour un local et sa rénovation, 100 000$ pour les équipements, et 25 000$ pour un camion de livraison.
+
+Elle prévoit des revenus bruts de 200 000$ la première année, croissant de 8 %/an pendant trois ans, puis diminuant de 10 %/an. Les charges d’exploitation seront 60 % des revenus bruts, le taux d’imposition à 32 %, et elle attend un rendement minimal de 20 %/an.
+
+Après cinq ans, les équipements seront remplacés pour 100 000$, revendus à 35 000$. Les amortissements sont 20 %/an pour les équipements, 4 %/an pour le bâtiment, 25 %/an pour le camion. Valeur de revente du bâtiment : 80 000$, du camion : 6 000$. Le projet durera 10 ans.

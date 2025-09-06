@@ -1,0 +1,13 @@
+. La compagnie Bon barbier Ltée projette d’investir dans la fabrication de rasoirs
+électriques. Pour ce faire, elle doit procurer une bâtisse au coût de 100 000$, ainsi que
+deux machines qui coûtent 40 000$ chacune. Les frais d’installation s’élèvent à 10 000$
+par machine.
+Bon Barbier prévoit que les entrées d’argent nettes avant impôt générées par sa
+production de rasoirs seront de 50 000$ par année pour les cinq premières années et de
+60 000$ pour les cinq années suivantes. La production de rasoir se fera sur une période
+de 10 ans.
+Le taux d’amortissement fiscal est de 5% pour la bâtisse et de 20% pour les machines ;
+l’amortissement étant calculé sur le solde dégressif. Le taux d’imposition de la
+compagnie est de 40% et le rendement minimum exigé sur l’investissement est de 15%.
+Enfin, la compagnie estime pouvoir revendre la bâtisse pour 40 000$ et les machines
+pour 5 000$ chacune au début de la 11ième année.
